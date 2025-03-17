@@ -3,7 +3,9 @@ Process Overview:
 
 RDS Setup: Created a PostgreSQL instance on AWS RDS with a retail dataset.
 Self-Hosted Setup: Installed PostgreSQL locally and configured a database.
+
 Migration: Used pg_dump to export from RDS and psql to import into the local instance.
+
 Optimization: Added indexes and tuned queries for performance.
 
 Challenges and Solutions:
